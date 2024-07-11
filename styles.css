@@ -10,14 +10,15 @@ body {
   }
 }
 
-.sidebar{
-  height: 50px;
-  width: 100%;
-  position: right;
+.sidebar {
+  height: 50px; /* Full height of the viewport */
+  width: 100%; /* Adjust width as needed */
+  position: relative;
+  right: 0; /* Positioning to the right */
+  top: 0; /* Start from the top */
   background-color: #f1f1f1; 
-  display: inline-flex;
+  display: flex;
 }
-
 .sidebar a{
   display: block;
   color: black;
