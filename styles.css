@@ -2,13 +2,13 @@ body {
   background-color: lightsteelblue;
   opacity: 2.9;
 
-  body, h1, h3, h4, h5, h6, p{
+  body, h1,h2, h3, h4, h5, h6, p{
     font-family:"Raleway", sans-serif;
   }
   h2{
-    color: blueviolet;
+    color: red;
+  }
 }
-#edf3f1
 
 .sidebar{
   height: 100%;
